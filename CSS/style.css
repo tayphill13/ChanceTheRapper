@@ -4,7 +4,8 @@
     color: purple;
     width: 30%;
     padding: 10px;
-    border: 5px solid darkorange; 
+    border: 5px solid darkorange;
+    background-color: silver; 
 }
 
 .disclaimer {
@@ -14,6 +15,7 @@
     width: 30%;
     padding: 10px;
     border: 5px solid purple;
+    background-color: black;
 }
 h1 {
     color: green;
@@ -23,4 +25,12 @@ h1 {
 body {
     background-color: honeydew;
 
+}
+.albums {
+    color: orange;
+    text-decoration: none;
+}
+.tour {
+    color: purple;
+    text-decoration: none;
 }
