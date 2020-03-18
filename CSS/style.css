@@ -1,4 +1,12 @@
 .shows {
     float: left;
+    margin: 10vh 10vw;
+    color: purple;
+}
+
+.disclaimer {
+    float: right;
+    margin: 10vh 10vw;
+    color: darkorange;
 
 }
